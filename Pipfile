@@ -10,6 +10,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 plotly = "*"
+numpy = "*"
 
 [dev-packages]
 
